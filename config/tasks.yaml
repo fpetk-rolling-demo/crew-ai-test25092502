@@ -1,0 +1,6 @@
+
+summarize_topic:
+  description: |-
+    Summarize {{topic}} in 3-5 bullet points.
+  expected_output: "Best possible answer."
+  agent: "researcher"
